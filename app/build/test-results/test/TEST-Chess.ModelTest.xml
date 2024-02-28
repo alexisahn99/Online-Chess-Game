@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Chess.ModelTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2024-02-07T18:03:46" hostname="Seoyoungs-MBP.attlocal.net" time="1.226">
+<testsuite name="Chess.ModelTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2024-02-28T20:34:24" hostname="Seoyoungs-MacBook-Pro.local" time="0.048">
   <properties/>
-  <testcase name="testBlackPawnInitialMove" classname="Chess.ModelTest" time="0.694"/>
-  <testcase name="testWhitePawnInitialMove" classname="Chess.ModelTest" time="0.001"/>
+  <testcase name="testBlackPawnInitialMove" classname="Chess.ModelTest" time="0.012"/>
+  <testcase name="testWhitePawnInitialMove" classname="Chess.ModelTest" time="0.0"/>
   <testcase name="testKnightMovableSquares" classname="Chess.ModelTest" time="0.001"/>
   <testcase name="testGetChessPiece" classname="Chess.ModelTest" time="0.0"/>
   <testcase name="testRookLegalMove" classname="Chess.ModelTest" time="0.001"/>
-  <testcase name="testKnightLegalMove" classname="Chess.ModelTest" time="0.019"/>
+  <testcase name="testKnightLegalMove" classname="Chess.ModelTest" time="0.001"/>
   <testcase name="testBishopLegalMove" classname="Chess.ModelTest" time="0.001"/>
-  <testcase name="testIsPawnAtEnd" classname="Chess.ModelTest" time="0.013"/>
-  <testcase name="testBlackPawnInitialMoveableSquares" classname="Chess.ModelTest" time="0.001"/>
-  <testcase name="testRookMovableSquares" classname="Chess.ModelTest" time="0.081"/>
-  <testcase name="testBlackPawnAfterMove" classname="Chess.ModelTest" time="0.036"/>
-  <testcase name="testQueenMovableSquares" classname="Chess.ModelTest" time="0.014"/>
-  <testcase name="testBoardMovableSquares" classname="Chess.ModelTest" time="0.005"/>
-  <testcase name="testGetLabelBlack" classname="Chess.ModelTest" time="0.032"/>
-  <testcase name="testGetLabelWhite" classname="Chess.ModelTest" time="0.002"/>
-  <testcase name="testGetCurrentPlayer" classname="Chess.ModelTest" time="0.001"/>
+  <testcase name="testIsPawnAtEnd" classname="Chess.ModelTest" time="0.001"/>
+  <testcase name="testBlackPawnInitialMoveableSquares" classname="Chess.ModelTest" time="0.002"/>
+  <testcase name="testRookMovableSquares" classname="Chess.ModelTest" time="0.001"/>
+  <testcase name="testBlackPawnAfterMove" classname="Chess.ModelTest" time="0.001"/>
+  <testcase name="testQueenMovableSquares" classname="Chess.ModelTest" time="0.001"/>
+  <testcase name="testBoardMovableSquares" classname="Chess.ModelTest" time="0.0"/>
+  <testcase name="testGetLabelBlack" classname="Chess.ModelTest" time="0.001"/>
+  <testcase name="testGetLabelWhite" classname="Chess.ModelTest" time="0.001"/>
+  <testcase name="testGetCurrentPlayer" classname="Chess.ModelTest" time="0.002"/>
   <testcase name="testQueenLegalMove" classname="Chess.ModelTest" time="0.001"/>
   <testcase name="testIsBlackPawnAtEnd" classname="Chess.ModelTest" time="0.0"/>
   <testcase name="testKingCastle" classname="Chess.ModelTest" time="0.001"/>
-  <testcase name="testBishopMovableSquares" classname="Chess.ModelTest" time="0.007"/>
-  <testcase name="testRemoveChessPiece" classname="Chess.ModelTest" time="0.001"/>
-  <testcase name="testIsGameOver" classname="Chess.ModelTest" time="0.241"/>
-  <testcase name="testIsWhitePawnAtEnd" classname="Chess.ModelTest" time="0.002"/>
+  <testcase name="testBishopMovableSquares" classname="Chess.ModelTest" time="0.0"/>
+  <testcase name="testRemoveChessPiece" classname="Chess.ModelTest" time="0.0"/>
+  <testcase name="testIsGameOver" classname="Chess.ModelTest" time="0.006"/>
+  <testcase name="testIsWhitePawnAtEnd" classname="Chess.ModelTest" time="0.001"/>
   <testcase name="testWhitePawnInitialMoveableSquares" classname="Chess.ModelTest" time="0.001"/>
-  <testcase name="initialKnightMovableSquares" classname="Chess.ModelTest" time="0.0"/>
-  <testcase name="testKingInitialMove" classname="Chess.ModelTest" time="0.002"/>
+  <testcase name="initialKnightMovableSquares" classname="Chess.ModelTest" time="0.001"/>
+  <testcase name="testKingInitialMove" classname="Chess.ModelTest" time="0.0"/>
   <testcase name="testWhitePawnAfterMove" classname="Chess.ModelTest" time="0.001"/>
-  <testcase name="testPawnMove" classname="Chess.ModelTest" time="0.0"/>
+  <testcase name="testPawnMove" classname="Chess.ModelTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
